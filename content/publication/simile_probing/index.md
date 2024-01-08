@@ -4,7 +4,7 @@ abstract: 'Simile interpretation is a crucial task in natural language processin
 slides: ""
 url_pdf: 'https://arxiv.org/abs/2203.08452'
 publication_types:
-    - '1'
+    - 'Conference Paper'
 authors:
     - admin
     - 'Sijie Cheng' 

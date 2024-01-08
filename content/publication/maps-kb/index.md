@@ -3,7 +3,7 @@ abstract: 'The ability to understand and generate similes is an imperative step 
 slides: ""
 url_pdf: 'https://arxiv.org/abs/2212.05254'
 publication_types:
-    - '1'
+    - 'Conference Paper'
 authors:
     - admin
     - 'Xintao Wang'
@@ -19,7 +19,7 @@ url_source: ""
 url_video: ""
 title: 'MAPS-KB: A Million-scale Probabilistic Simile Knowledge Base'
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
