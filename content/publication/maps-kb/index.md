@@ -19,7 +19,7 @@ url_source: ""
 url_video: ""
 title: 'MAPS-KB: A Million-scale Probabilistic Simile Knowledge Base'
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
@@ -32,5 +32,4 @@ url_slides: ""
 publishDate: '2023-12-10T00:00:00.000Z'
 url_poster: ""
 url_code: 'https://github.com/Abbey4799/MAPS-KB'
-
 ---

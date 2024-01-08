@@ -21,7 +21,7 @@ url_source: ""
 url_video: ""
 title: 'HAUSER: Towards Holistic and Automatic Evaluation of Simile Generation'
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
@@ -34,5 +34,4 @@ url_slides: ""
 publishDate: '2023-07-10T00:00:00.000Z'
 url_poster: ""
 url_code: 'https://github.com/Abbey4799/HAUSER'
-
 ---
