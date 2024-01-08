@@ -24,7 +24,16 @@ sections:
     content:
       title: News
       text:
-        + ***Dec.*** **2023** ...
+        + ***Dec.*** **2023** Gave a talk at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/), titled: “Beyond Simple Words: Make Machine Communicate like Humans”. Thanks for the invitation!
+    
+        + ***Dec.*** **2023** Congratulations on our paper [Enhancing Quantitative Reasoning Skills of Large Language Models through Dimension Perception.](https://abbey4799.github.io/publication/quantitative_reasoning/) being accepted to ICDE 2024! 
+
+        + ***Dec.*** **2023** Three papers have been accepted by AAAI 2024! The first paper is [CELLO](https://abbey4799.github.io/publication/cello/), a benchmark for evaluating LLMs'' ability to follow complex instructions systematically. The second paper is [Xiezhi](https://github.com/MikeGu721/XiezhiBenchmark), a comprehensive, multi-disciplinary, auto-updating benchmark for domain knowledge evaluation.  
+
+        + ***April.*** **2023** We released [CuteGPT](https://github.com/Abbey4799/CuteGPT), an open-source conversational language model developed by the Knowledge Works Research Laboratory at Fudan University, Integrated by [FastChat](https://github.com/lm-sys/FastChat).
+    
+        + ***Mar.*** **2023** Our paper [HAUSER](https://abbey4799.github.io/publication/hauser/) got accepted to ACL 2023!
+    
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
