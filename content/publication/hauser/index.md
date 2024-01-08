@@ -3,7 +3,7 @@ abstract: 'Similes play an imperative role in creative writing such as story and
 slides: ""
 url_pdf: 'https://aclanthology.org/2023.acl-long.702/'
 publication_types:
-    - '1'
+    - 'Conference Paper'
 authors:
     - admin
     - 'Yikai Zhang'
@@ -21,7 +21,7 @@ url_source: ""
 url_video: ""
 title: 'HAUSER: Towards Holistic and Automatic Evaluation of Simile Generation'
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
