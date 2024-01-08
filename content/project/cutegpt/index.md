@@ -11,5 +11,5 @@ external_link: https://github.com/Abbey4799/CuteGPT
 image:
   caption: 
   focal_point: 
-  filename: cutegpt.jpg
+  filename: cutegpt.png
 ---
