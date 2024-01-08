@@ -30,7 +30,7 @@ sections:
 
         + ***Dec.*** **2023** Three papers have been accepted by AAAI 2024! The first paper is [CELLO](https://abbey4799.github.io/publication/cello/), a benchmark for evaluating LLMs'' ability to follow complex instructions systematically. The second paper is [Xiezhi](https://github.com/MikeGu721/XiezhiBenchmark), a comprehensive, multi-disciplinary, auto-updating benchmark for domain knowledge evaluation.  
 
-        + ***April.*** **2023** We released [CuteGPT](https://github.com/Abbey4799/CuteGPT), an open-source conversational language model developed by the Knowledge Works Research Laboratory at Fudan University, Integrated by [FastChat](https://github.com/lm-sys/FastChat).
+        + ***April.*** **2023** We released [CuteGPT](https://github.com/Abbey4799/CuteGPT), an open-source conversational language model developed by the Knowledge Works Research Laboratory at Fudan University. Our work has been integrated by [FastChat](https://github.com/lm-sys/FastChat)👏.
     
         + ***Mar.*** **2023** Our paper [HAUSER](https://abbey4799.github.io/publication/hauser/) got accepted to ACL 2023!
     
