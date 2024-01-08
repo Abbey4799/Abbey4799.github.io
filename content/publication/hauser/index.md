@@ -6,7 +6,6 @@ publication_types:
     - '1'
 authors:
     - admin
-    - 'Qianyu He'
     - 'Yikai Zhang'
     - 'Jiaqing Liang'
     - 'Yuncheng Huang'
