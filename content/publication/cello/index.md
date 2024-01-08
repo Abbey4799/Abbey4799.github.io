@@ -40,9 +40,9 @@ image:
     focal_point: ""
     preview_only: false
     filename: cello.png
-date: '2023-05-10T02:34:00.000Z'
+date: '2023-12-10T02:34:00.000Z'
 url_slides: ""
-publishDate: '2023-05-10T00:00:00.000Z'
+publishDate: '2023-12-10T00:00:00.000Z'
 url_poster: ""
 url_code: 'https://github.com/Abbey4799/CELLO'
 
