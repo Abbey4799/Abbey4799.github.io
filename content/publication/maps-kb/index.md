@@ -19,7 +19,7 @@ url_source: ""
 url_video: ""
 title: 'MAPS-KB: A Million-scale Probabilistic Simile Knowledge Base'
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
