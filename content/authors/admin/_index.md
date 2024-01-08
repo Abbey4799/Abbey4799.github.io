@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 何千羽
+title: Qianyu He
 
 # Name pronunciation (optional)
-name_pronunciation: He Qian Yu
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Qianyu
@@ -116,8 +116,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Qianyu He (何千羽) is currently a third-year PhD candidate at Fudan University advised by YangHua Xiao. She acquired her B.S. at Fudan University. Her primary research focus on the **Evaluation and Enhancement of Large Language Models (LLMs)**, with an emphasis on the models' *instruction-following* and *creative generation* ability. The goal of her research is to **enable models to communicate effectively and engagingly with humans**. 
+Qianyu He (何千羽) is currently a third-year PhD candidate at Fudan University advised by YangHua Xiao. She acquired her B.S. at Fudan University. Her primary research focus on the **Evaluation and Enhancement of Large Language Models (LLMs)**, with an emphasis on the models' *instruction-following* and *creative generation* ability. The goal of her research is to **enable models to communicate effectively and engagingly with humans**.
 
 (Download my [resumé](https://abbey4799.github.io/uploads/resume.pdf). The last update was on 2024-01-08.)
 

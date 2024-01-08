@@ -22,10 +22,8 @@ authors:
     - 'Zhouhong Gu'
     - 'Jiaqing Liang'
     - 'Yanghua Xiao'
-author_notes:
-    - 'Equal contribution'
-    - 'Equal contribution'
-publication: Preprint
+author_notes: []
+publication: In *The 38th Annual AAAI Conference on Artificial Intelligence (**AAAI 2024**)* 
 summary: ""
 url_dataset: ""
 url_project: ""
