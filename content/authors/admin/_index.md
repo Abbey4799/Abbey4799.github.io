@@ -38,10 +38,9 @@ education:
   courses:
     - course: PhD in CS, 2021-2026 (estimated)
       institution: Fudan University
-      year: 2021
     - course: B.S. in CS, 2017-2021
       institution: Fudan University
-      year: 2017
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
