@@ -21,7 +21,7 @@ url_source: ""
 url_video: ""
 title: 'HAUSER: Towards Holistic and Automatic Evaluation of Simile Generation'
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:

@@ -3,7 +3,7 @@ abstract: 'Large language models (LLMs) can understand human instructions, showi
 slides: ""
 url_pdf: 'https://arxiv.org/abs/2309.09150'
 publication_types:
-    - '1'
+    - 'Conference Paper
 authors:
     - admin
     - 'Jie Zeng'
@@ -45,5 +45,4 @@ url_slides: ""
 publishDate: '2023-12-10T00:00:00.000Z'
 url_poster: ""
 url_code: 'https://github.com/Abbey4799/CELLO'
-
 ---
