@@ -115,15 +115,11 @@ social:
 highlight_name: true
 ---
 Qianyu He (何千羽) is currently a third-year PhD candidate at Fudan University in the School of Computer Science, Shanghai, China. Her previous work focused on the **Creative Generation of Language Models**:
-
 - **Creative Generation**:
   Integrating linguistic theory and commonsense knowledge into language model understanding and generation, with an emphasis on figurative language. The aim is to enable language models to generate creative responses reflecting human cognition, such as similes and metaphors.
-
-Currently, her interested research topics are mostly around the **Enhancement of Large Language Models~(LLMs)' Instruction Following and Reasoning ability**:
-
+Currently, her interested research topics are mostly around the **Enhancement of Large Language Models(LLMs)' Instruction Following and Reasoning ability**:
 - **Instruction Following**:
   Developing advanced methods for LLMs to understand complex instructions, including task descriptions with multiple constraints and complex input text. The aim is to enhance LLMs' understanding of diverse and complex human instructions, enabling them to excel in practical applications beyond traditional NLP tasks.
-
 - **Mathematical Reasoning**:
   Improving LLMs' reasoning ability fundamentally without external support, with an emphasis on mathematical reasoning. This involves enhancing foundational skills of complex reasoning tasks, such as numerical computation and unit conversion through training.
 
