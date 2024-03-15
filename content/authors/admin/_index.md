@@ -41,7 +41,6 @@ education:
     - course: B.S. in CS, 2017-2021
       institution: Fudan University
 
-
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
@@ -115,8 +114,19 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Qianyu He (何千羽) is currently a third-year PhD candidate at Fudan University advised by YangHua Xiao. She acquired her B.S. at Fudan University. Her primary research focus on the **Evaluation and Enhancement of Large Language Models (LLMs)**, with an emphasis on the models' *instruction-following* and *creative generation* ability. The goal of her research is to **enable models to communicate effectively and engagingly with humans**.
+Qianyu He (何千羽) is currently a third-year PhD candidate at Fudan University in the School of Computer Science, Shanghai, China. Her previous work focused on the **Creative Generation of Language Models**:
 
-(Download my [resumé](https://abbey4799.github.io/uploads/resume.pdf). The last update was on 2024-01-08.)
+- **Creative Generation**:
+  Integrating linguistic theory and commonsense knowledge into language model understanding and generation, with an emphasis on figurative language. The aim is to enable language models to generate creative responses reflecting human cognition, such as similes and metaphors.
+
+Currently, her interested research topics are mostly around the **Enhancement of Large Language Models~(LLMs)' Instruction Following and Reasoning ability**:
+
+- **Instruction Following**:
+  Developing advanced methods for LLMs to understand complex instructions, including task descriptions with multiple constraints and complex input text. The aim is to enhance LLMs' understanding of diverse and complex human instructions, enabling them to excel in practical applications beyond traditional NLP tasks.
+
+- **Mathematical Reasoning**:
+  Improving LLMs' reasoning ability fundamentally without external support, with an emphasis on mathematical reasoning. This involves enhancing foundational skills of complex reasoning tasks, such as numerical computation and unit conversion through training.
+
+(Download my [resumé](https://abbey4799.github.io/uploads/resume.pdf). The last update was on 2024-03-15.)
 
 {style="text-align: justify;"}
