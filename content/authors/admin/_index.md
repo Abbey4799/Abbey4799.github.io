@@ -124,6 +124,6 @@ Currently, her interested research topics are mostly around the **Enhancement of
 - **Mathematical Reasoning**:
   Improving LLMs' reasoning ability fundamentally without external support, with an emphasis on mathematical reasoning. This involves enhancing foundational skills of complex reasoning tasks, such as numerical computation and unit conversion through training.
 
-(Download my [resumé](https://abbey4799.github.io/uploads/resume.pdf). The last update was on 2024-03-18.)
+(Download my [resumé](https://abbey4799.github.io/uploads/resume.pdf). The last update was on 2024-04-30.)
 
 {style="text-align: justify;"}
