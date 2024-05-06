@@ -24,7 +24,7 @@ sections:
     content:
       title: News
       text: |
-        + ***May.*** **2024** Gave a talk at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/), titled: "Complex Instruction Following Abilityof Large Language Models". Thanks for the invitation!
+        + ***May.*** **2024** Gave a talk at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/), titled: "Complex Instruction Following Ability of Large Language Models". Thanks for the invitation!
 
         + ***Apr.*** **2024** How to improve LLMs' ability to follow *Complex Instructions*? Check out our new preprint [From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models](https://abbey4799.github.io/publication/constraint/).
   
