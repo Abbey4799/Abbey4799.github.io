@@ -24,9 +24,11 @@ sections:
     content:
       title: News
       text: |
+        + ***May.*** **2024** Gave a talk at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/), titled: "Complex Instruction Following Abilityof Large Language Models". Thanks for the invitation!
+
         + ***Apr.*** **2024** How to improve LLMs' ability to follow *Complex Instructions*? Check out our new preprint [From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models](https://abbey4799.github.io/publication/constraint/).
   
-        + ***Dec.*** **2023** Gave a talk at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/), titled: “Beyond Simple Words: Make Machine Communicate like Humans”. Thanks for the invitation!
+        + ***Dec.*** **2023** Gave a talk at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/), titled: "Beyond Simple Words: Make Machine Communicate like Humans". Thanks for the invitation!
     
         + ***Dec.*** **2023** Congratulations on our paper [Enhancing Quantitative Reasoning Skills of Large Language Models through Dimension Perception.](https://abbey4799.github.io/publication/quantitative_reasoning/) being accepted to ICDE 2024! 
 
