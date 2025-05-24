@@ -3,7 +3,7 @@ abstract: 'It is imperative for Large language models (LLMs) to follow instructi
 slides: ""
 url_pdf: 'https://arxiv.org/abs/2404.15846'
 publication_types:
-    - 'Preprint'
+    - 'Conference Paper'
 authors:
     - admin
     - 'Jie Zeng'
@@ -13,7 +13,7 @@ authors:
 author_notes: 
   - 'Equal contribution'
   - 'Equal contribution'
-publication: "" 
+publication: In Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024 Findings
 summary: ""
 url_dataset: ""
 url_project: ""

@@ -40,9 +40,8 @@ sections:
           date_start: '2024-11-01'
           date_end: ''
           description: |2-
-              Topics: Reasoning Model, Long Chain-of-thought. 
-              
-              Projects: Seed-Thinking-v1.5, Doubao-1.5-pro-AS1-Preview.
+              **Topics:** Reasoning Model, Long Chain-of-thought. 
+              **Projects:** Seed-Thinking-v1.5, Doubao-1.5-pro-AS1-Preview.
         - title: Research Intern
           company: StepFun 
           company_url: 'https://www.stepfun.com/company'
@@ -51,7 +50,7 @@ sections:
           date_start: '2024-05-15'
           date_end: '2024-10-10'
           description: |2-
-              Topics: LLMs Reasoning, Generative Reward Model
+              **Topics:** LLMs Reasoning, Generative Reward Model
         - title: Student Research Leader
           company: Knowledge Works Lab, at Fudan University
           company_url: ''
@@ -60,7 +59,7 @@ sections:
           date_start: '2021-03-01'
           date_end: ''
           description: |2-
-              Topics: Instruction Following, LLMs Reasoning, Creative Generation
+              **Topics:** Instruction Following, LLMs Reasoning, Creative Generation
     design:
       columns: '2'
   - block: markdown
@@ -107,9 +106,9 @@ sections:
           date_end: ''
           date_start: '2025-03-01'
           description: ''
-          organization: First-Class Academic Scholarship for Doctoral Students
+          organization: Fudan University
           organization_url: ''
-          title: Intel Fellowship
+          title: First-Class Academic Scholarship for Doctoral Students
           url: ''
         - certificate_url: ''
           date_end: ''
