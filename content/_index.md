@@ -24,22 +24,68 @@ sections:
     content:
       title: News
       text: |
-        + ***May.*** **2024** Gave a talk at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/), titled: "Complex Instruction Following Ability of Large Language Models". Thanks for the invitation!
+        + ***May.*** **2025** 🎉 Checkout [KORGym](https://arxiv.org/abs/2505.14552), A Dynamic Game Platform for LLM Reasoning Evaluation. 
 
-        + ***Apr.*** **2024** How to improve LLMs' ability to follow *Complex Instructions*? Check out our new preprint [From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models](https://abbey4799.github.io/publication/constraint/).
-  
-        + ***Dec.*** **2023** Gave a talk at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index/), titled: "Beyond Simple Words: Make Machine Communicate like Humans". Thanks for the invitation!
-    
-        + ***Dec.*** **2023** Congratulations on our paper [Enhancing Quantitative Reasoning Skills of Large Language Models through Dimension Perception.](https://abbey4799.github.io/publication/quantitative_reasoning/) being accepted to ICDE 2024! 
+        + ***May.*** **2025** 🎉 Two papers about how to enhance instruction following have been accepted by ACL 2025 findings! The first paper enhances the [soft contraint following ability of LLMs](https://arxiv.org/abs/2501.04945) and the second paper investigated the [position bias in multi-constraint instruction following](https://arxiv.org/pdf/2502.17204).
 
-        + ***Dec.*** **2023** Three papers have been accepted by AAAI 2024! The first paper is [CELLO](https://abbey4799.github.io/publication/cello/), a benchmark for evaluating LLMs' ability to follow complex instructions systematically. The second paper is [Xiezhi](https://github.com/MikeGu721/XiezhiBenchmark), a comprehensive, multi-disciplinary, auto-updating benchmark for domain knowledge evaluation.  
+        + ***Apr.*** **2025** 🎉 We introduce [Seed1.5-Thinking](https://arxiv.org/abs/2504.13914), capable of reasoning through thinking before responding, resulting in improved performance on a wide range of benchmarks.
 
-        + ***April.*** **2023** We released [CuteGPT](https://github.com/Abbey4799/CuteGPT), an open-source conversational language model developed by the Knowledge Works Research Laboratory at Fudan University. Our work has been integrated by [FastChat](https://github.com/lm-sys/FastChat)👏.
-    
-        + ***Mar.*** **2023** Our paper [HAUSER](https://abbey4799.github.io/publication/hauser/) got accepted to ACL 2023!
+        + ***Mar.*** **2025** 🎉 Our Instruction Following Benchmark [CELLO](https://arxiv.org/abs/2309.09150) was used by [Hunyuan-Thinker-1-Preview](https://llm.hunyuan.tencent.com/#/blog/hy-t1) for instruction following evaluation.
+
+        + ***Jan.*** **2025** 🎉 Congratulations on our paper [Think Thrice Before You Act: Progressive Thought Refinement in Large Language Models](https://arxiv.org/abs/2410.13413) accepted by ICLR 2025!
+
+        + ***Nov.*** **2024** 👀 Joined [ByteDance Seed-LLM-Horizon](https://seed.bytedance.com/en/direction/llm) as a research intern to work on reasoning models.
+
+        + ***Aug.*** **2024** 🎉 How to improve LLMs' ability to follow *Complex Instructions*? Congratulations on our paper [From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models](https://abbey4799.github.io/publication/constraint/) got accepted to EMNLP 2024 findings!
+
+        + ***May.*** **2024** 👀 Joined [StepFun](https://www.stepfun.com/company) Foundation Model Group as a research intern to work on LLM reasoning research.
+
+        + ***May.*** **2024** 🔔 Gave a talk at [Alibaba Tongyi Lab](https://tongyi.aliyun.com/), titled: "Complex Instruction Following Ability of Large Language Models". Thanks for the invitation!
     
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      # Date format for experience dates.
+      # Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research Intern
+          company: ByteDance Seed
+          company_url: 'https://seed.bytedance.com/en/direction/llm'
+          company_logo: bytedance
+          location: Shanghai, China
+          date_start: '2024-11-01'
+          date_end: ''
+          description: |2-
+              Topics: Reasoning Model, Long Chain-of-thought. Projects: Seed-Thinking-v1.5, Doubao-1.5-pro-AS1-Preview.
+        - title: Research Intern
+          company: StepFun 
+          company_url: 'https://www.stepfun.com/company'
+          company_logo: stepfun
+          location: Shanghai, China
+          date_start: '2024-10-01'
+          date_end: '2025-05-15'
+          description: |2-
+              Topics: LLMs Reasoning, Generative Reward Model
+        - title: Student Research Leader
+          company: Knowledge Works Lab, at Fudan University
+          company_url: ''
+          company_logo: fudan
+          location: Shanghai, China
+          date_start: '2021-03-01'
+          date_end: ''
+          description: |2-
+              Topics: Instruction Following, LLMs Reasoning, Creative Generation
+    design:
       columns: '2'
   - block: accomplishments
     id: awards
@@ -57,6 +103,14 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
+          date_start: '2025-03-01'
+          description: ''
+          organization: First-Class Academic Scholarship for Doctoral Students
+          organization_url: ''
+          title: Intel Fellowship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
           date_start: '2023-10-15'
           description: ''
           organization: Intel
@@ -69,7 +123,7 @@ sections:
           description: ''
           organization: Fudan University
           organization_url: ''
-          title: Outstanding Academic Scholarship for Master Students
+          title: Venustech Scholarship
           url: ''
         - certificate_url: ''
           date_end: ''

@@ -25,13 +25,13 @@ organizations:
     url: https://www.fudan.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on the **Evaluation and Enhancement of Large Language Models (LLMs)**, with an emphasis on the models' *instruction-following* and *creative generation* ability.
+bio: 
 
 # Interests to show in About widget
 interests:
+  - Reasoning Model
   - Instruction Following
-  - Creative Generation
-  - Large Language Models
+  - Dancing 💃
 
 # Education to show in About widget
 education:
@@ -114,16 +114,8 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Qianyu He (何千羽) is currently a third-year PhD candidate at Fudan University in the School of Computer Science, Shanghai, China. Her previous work focused on the **Creative Generation of Language Models**:
-- **Creative Generation**:
-  Integrating linguistic theory and commonsense knowledge into language model understanding and generation, with an emphasis on figurative language. The aim is to enable language models to generate creative responses reflecting human cognition, such as similes and metaphors.
-  
-Currently, her interested research topics are mostly around the **Enhancement of Large Language Models(LLMs)' Instruction Following and Reasoning ability**:
-- **Instruction Following**:
-  Developing advanced methods for LLMs to understand complex instructions, particularly those with multiple constraints (e.g., format, semantic constraints). The aim is to enhance LLMs' understanding of diverse and complex human instructions, enabling them to excel in practical applications beyond traditional NLP tasks.
-- **Mathematical Reasoning**:
-  Improving LLMs' reasoning ability fundamentally without external support, with an emphasis on mathematical reasoning. This involves enhancing foundational skills of complex reasoning tasks, such as numerical computation and unit conversion through training.
-
-(Download my [resumé](https://abbey4799.github.io/uploads/resume.pdf). The last update was on 2024-04-30.)
+Qianyu He (何千羽) is currently a fourth-year PhD candidate at Fudan University in the School of Computer Science. Her research interests primarily focus on enhancing the fundamental **reasoning and instruction following capabilities** of large language models (LLMs):
+- **Reasoning Model**: Advancing research on incentivizing and understanding LLMs' complex reasoning abilities.
+- **Instruction Following**: Developing advanced methods for LLMs to follow complex instructions, ensuring more reliable human-LLMs interactions, and empowering autonomous completion of complex real-world tasks.
 
 {style="text-align: justify;"}
