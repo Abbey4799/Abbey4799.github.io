@@ -19,6 +19,50 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
+  - block: experience
+    id: experience
+    content:
+      title: Experience
+      # Date format for experience dates.
+      # Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research Intern
+          company: ByteDance Seed
+          company_url: 'https://seed.bytedance.com/en/direction/llm'
+          company_logo: bytedance
+          location: Shanghai, China
+          date_start: '2024-11-01'
+          date_end: ''
+          description: |2-
+              Topics: Reasoning Model, Long Chain-of-thought. 
+              
+              Projects: Seed-Thinking-v1.5, Doubao-1.5-pro-AS1-Preview.
+        - title: Research Intern
+          company: StepFun 
+          company_url: 'https://www.stepfun.com/company'
+          company_logo: stepfun
+          location: Shanghai, China
+          date_start: '2024-10-01'
+          date_end: '2025-05-15'
+          description: |2-
+              Topics: LLMs Reasoning, Generative Reward Model
+        - title: Student Research Leader
+          company: Knowledge Works Lab, at Fudan University
+          company_url: ''
+          company_logo: fudan
+          location: Shanghai, China
+          date_start: '2021-03-01'
+          date_end: ''
+          description: |2-
+              Topics: Instruction Following, LLMs Reasoning, Creative Generation
+    design:
+      columns: '2'
   - block: markdown
     id: news
     content:
@@ -44,48 +88,6 @@ sections:
     
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-  - block: experience
-    id: experience
-    content:
-      title: Experience
-      # Date format for experience dates.
-      # Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Research Intern
-          company: ByteDance Seed
-          company_url: 'https://seed.bytedance.com/en/direction/llm'
-          company_logo: bytedance
-          location: Shanghai, China
-          date_start: '2024-11-01'
-          date_end: ''
-          description: |2-
-              Topics: Reasoning Model, Long Chain-of-thought. Projects: Seed-Thinking-v1.5, Doubao-1.5-pro-AS1-Preview.
-        - title: Research Intern
-          company: StepFun 
-          company_url: 'https://www.stepfun.com/company'
-          company_logo: stepfun
-          location: Shanghai, China
-          date_start: '2024-10-01'
-          date_end: '2025-05-15'
-          description: |2-
-              Topics: LLMs Reasoning, Generative Reward Model
-        - title: Student Research Leader
-          company: Knowledge Works Lab, at Fudan University
-          company_url: ''
-          company_logo: fudan
-          location: Shanghai, China
-          date_start: '2021-03-01'
-          date_end: ''
-          description: |2-
-              Topics: Instruction Following, LLMs Reasoning, Creative Generation
-    design:
       columns: '2'
   - block: accomplishments
     id: awards
