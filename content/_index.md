@@ -33,17 +33,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: ByteDance Seed
+          company: ByteDance Seed-LLM-Horizon
           company_url: 'https://seed.bytedance.com/en/direction/llm'
           company_logo: bytedance
           location: Shanghai, China
           date_start: '2024-11-01'
           date_end: ''
           description: |2-
-              **Topics:** Reasoning Model, Long Chain-of-thought. 
-              **Projects:** Seed-Thinking-v1.5, Doubao-1.5-pro-AS1-Preview.
+              **Topics:** Reasoning Model, Long Chain-of-thought.
+
+              **Projects:** [Seed-Thinking-v1.5](https://arxiv.org/abs/2504.13914), [Doubao-1.5-pro-AS1-Preview](https://seed.bytedance.com/en/special/doubao_1_5_pro)
         - title: Research Intern
-          company: StepFun 
+          company: StepFun Foundation Model Group
           company_url: 'https://www.stepfun.com/company'
           company_logo: stepfun
           location: Shanghai, China
@@ -59,7 +60,8 @@ sections:
           date_start: '2021-03-01'
           date_end: ''
           description: |2-
-              **Topics:** Instruction Following, LLMs Reasoning, Creative Generation
+              **Topics:** Instruction Following, LLMs Reasoning, Creative Generation. Mentored > 10 undergraduate and graduate students over the years
+
     design:
       columns: '2'
   - block: markdown
@@ -67,6 +69,8 @@ sections:
     content:
       title: News
       text: |
+        + ***May.*** **2025** 🎉 Checkout [Enigmata](https://arxiv.org/abs/2505.19914), the first comprehensive suite tailored for improving LLMs with puzzle reasoning skills.
+
         + ***May.*** **2025** 🎉 Checkout [KORGym](https://arxiv.org/abs/2505.14552), A Dynamic Game Platform for LLM Reasoning Evaluation. 
 
         + ***May.*** **2025** 🎉 Two papers about how to enhance instruction following have been accepted by ACL 2025 findings! The first paper enhances the [soft contraint following ability of LLMs](https://arxiv.org/abs/2501.04945) and the second paper investigated the [position bias in multi-constraint instruction following](https://arxiv.org/pdf/2502.17204).
@@ -155,21 +159,21 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    id: publications
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #   id: publications
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     columns: '2'
+  #     view: citation
 #   - block: portfolio
 #     id: projects
 #     content:
