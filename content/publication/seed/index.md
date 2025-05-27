@@ -24,9 +24,9 @@ image:
     focal_point: ""
     preview_only: false
     filename: seed.png
-date: '2025-02-24T02:34:00.000Z'
+date: '2025-04-24T02:34:00.000Z'
 url_slides: ""
-publishDate: '2025-02-24T00:00:00.000Z'
+publishDate: '2025-04-24T00:00:00.000Z'
 url_poster: ""
 url_code: 'https://github.com/ByteDance-Seed/Seed-Thinking-v1.5/tree/main'
 ---
