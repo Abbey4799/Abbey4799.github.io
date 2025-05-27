@@ -118,6 +118,6 @@ Qianyu He (何千羽) is currently a fourth-year PhD candidate at Fudan Universi
 - **Reasoning Model**: Advancing research on incentivizing and understanding LLMs' complex reasoning abilities.
 - **Instruction Following**: Developing advanced methods for LLMs to follow complex instructions, ensuring more reliable human-LLMs interactions, and empowering autonomous completion of complex real-world tasks.
 
-🌟 **I am currently on the job market!** I am actively seeking opportunities in research and industry positions related to large language models, reasoning, and instruction following. If you are interested in collaboration or have available positions, please feel free to contact me. For more details, please see my [Resume](uploads/resume.pdf).
+🌟 <span style="color: red;">**I am currently on the job market!**</span> I am actively seeking opportunities in research and industry positions related to large language models, reasoning, and instruction following. If you are interested in collaboration or have available positions, please feel free to contact me. For more details, please refer to my [Resume](uploads/resume.pdf).
 
 {style="text-align: justify;"}
