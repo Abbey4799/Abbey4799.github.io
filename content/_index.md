@@ -38,7 +38,7 @@ sections:
           company_logo: bytedance
           location: Shanghai, China
           date_start: '2024-11-01'
-          date_end: ''
+          date_end: '2025-12-01'
           description: |2-
               **Topics:** Reasoning Model, Long Chain-of-thought.
 
